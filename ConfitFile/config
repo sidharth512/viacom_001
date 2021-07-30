@@ -1,0 +1,4 @@
+ baseURL=https://www.snapdeal.com
+ name=samsung android phone
+Chromedriver=.\Drivers//chromedriver.exe
+edgeDriver=.\Drivers//msedgedriver.exe
